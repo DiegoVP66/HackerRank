@@ -19,3 +19,11 @@ https://www.hackerrank.com/
 #### Minha solução:
 
 ![minMaxSolution](https://user-images.githubusercontent.com/84286836/174918938-ca4d44ad-5819-4cf7-8b45-3c9c8849d450.png)
+
+### 3 Time Conversion (Concluído)
+
+![TimeConversion](https://user-images.githubusercontent.com/84286836/174927394-46e1b93b-08cb-44ee-82a4-13825dee9fb4.png)
+
+#### Minha solução:
+
+![timeConversionSolution](https://user-images.githubusercontent.com/84286836/174928059-c7dc2d00-04f2-471f-b562-5027c3e2e38a.png)
