@@ -36,7 +36,7 @@ https://www.hackerrank.com/
 
 ![SparseArraysSolution](https://user-images.githubusercontent.com/84286836/175119879-44062a9f-d192-44c9-9ebb-9a47fb471e7b.png)
 
-### Lonely Integer (Concluído)
+### 5 - Lonely Integer (Concluído)
 
 ![LonelyInteger](https://user-images.githubusercontent.com/84286836/175141821-7494f6a3-e614-4bda-8bee-03409cef7b8f.png)
 
