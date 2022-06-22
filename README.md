@@ -27,3 +27,11 @@ https://www.hackerrank.com/
 #### Minha solução:
 
 ![timeConversionSolution](https://user-images.githubusercontent.com/84286836/174928059-c7dc2d00-04f2-471f-b562-5027c3e2e38a.png)
+
+### 4 - Sparse Arrays (concluído)
+
+![SparseArrays](https://user-images.githubusercontent.com/84286836/175119877-880dfd3a-6137-4632-99e9-ec19c49b056f.png)
+
+#### Minha solução:
+
+![SparseArraysSolution](https://user-images.githubusercontent.com/84286836/175119879-44062a9f-d192-44c9-9ebb-9a47fb471e7b.png)
