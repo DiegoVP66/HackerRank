@@ -28,10 +28,18 @@ https://www.hackerrank.com/
 
 ![timeConversionSolution](https://user-images.githubusercontent.com/84286836/174928059-c7dc2d00-04f2-471f-b562-5027c3e2e38a.png)
 
-### 4 - Sparse Arrays (concluído)
+### 4 - Sparse Arrays (Concluído)
 
 ![SparseArrays](https://user-images.githubusercontent.com/84286836/175119877-880dfd3a-6137-4632-99e9-ec19c49b056f.png)
 
 #### Minha solução:
 
 ![SparseArraysSolution](https://user-images.githubusercontent.com/84286836/175119879-44062a9f-d192-44c9-9ebb-9a47fb471e7b.png)
+
+### Lonely Integer (Concluído)
+
+![LonelyInteger](https://user-images.githubusercontent.com/84286836/175141821-7494f6a3-e614-4bda-8bee-03409cef7b8f.png)
+
+#### minha solução:
+
+![LoneLyIntegerSolution](https://user-images.githubusercontent.com/84286836/175142159-99613700-18b0-433d-b4c6-226909bc20da.png)
